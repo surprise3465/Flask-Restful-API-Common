@@ -1,0 +1,2 @@
+FLASK_APP=appcore
+FLASK_ENV=development
